@@ -16,6 +16,28 @@ The system models the complete production lifecycle—from raw material procurem
 
 ---
 
+## Project at a glance
+
+✔ 10 relational tables
+
+✔ 7 business automation triggers
+
+✔ 1 stored procedure
+
+✔ Recursive CTE
+
+✔ Inventory monitoring
+
+✔ Production workflow automation
+
+✔ SQL Server 2022
+
+| 📊 Database | ⚙️ Automation | 📦 Inventory       | 🏭 Manufacturing    |
+| ----------- | ------------- | ------------------ | ------------------- |
+| 10 Tables   | 7 Triggers    | Auto Replenishment | Production Workflow |
+
+---
+
 ## Business Problem
 
 Manufacturing companies need to coordinate suppliers, raw materials, production orders and shop-floor operations while maintaining accurate inventory levels and production status.
