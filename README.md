@@ -1,5 +1,17 @@
 # Production Management SQL Database
 
+A SQL Server project simulating a manufacturing execution system (MES) for production planning, inventory management and workflow automation.
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-2022-CC2927?logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-Advanced-blue)
+![Database Design](https://img.shields.io/badge/Database_Design-3NF-success)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-ERD-green)
+![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-Yes-orange)
+![Database Triggers](https://img.shields.io/badge/Database_Triggers-Automation-yellow)
+![Recursive CTE](https://img.shields.io/badge/Recursive_CTE-Implemented-informational)
+![Business Automation](https://img.shields.io/badge/Business_Automation-T--SQL-blueviolet)
+![Docker](https://img.shields.io/badge/Docker-SQL_Server-2496ED?logo=docker&logoColor=white)
+
 A relational database project developed in Microsoft SQL Server to support manufacturing planning, inventory management, supplier coordination and production process monitoring.
 
 The system models the complete production lifecycle—from raw material procurement to production execution and finished goods—using a normalized relational database, automated business rules, stored procedures and database triggers.
