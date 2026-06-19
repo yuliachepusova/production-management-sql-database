@@ -12,8 +12,8 @@ A SQL Server project simulating a manufacturing execution system (MES) for produ
 ![Business Automation](https://img.shields.io/badge/Business_Automation-T--SQL-blueviolet)
 ![Docker](https://img.shields.io/badge/Docker-SQL_Server-2496ED?logo=docker&logoColor=white)
 
-A relational database project developed in Microsoft SQL Server to support manufacturing planning, inventory management, supplier coordination and production process monitoring.
-
+-- A relational database project developed in Microsoft SQL Server to support manufacturing planning, inventory management, supplier coordination and production process monitoring.
+--
 The system models the complete production lifecycle—from raw material procurement to production execution and finished goods—using a normalized relational database, automated business rules, stored procedures and database triggers.
 
 ---
