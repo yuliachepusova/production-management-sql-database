@@ -14,24 +14,6 @@ A SQL Server project simulating a manufacturing execution system (MES) for produ
 
 The system models the complete production lifecycle—from raw material procurement to production execution and finished goods—using a normalized relational database, automated business rules, stored procedures and database triggers.
 
----
-
-## Project at a glance
-
-✔ 10 relational tables
-
-✔ 7 business automation triggers
-
-✔ 1 stored procedure
-
-✔ Recursive CTE
-
-✔ Inventory monitoring
-
-✔ Production workflow automation
-
-✔ SQL Server 2022
-
 | 📊 Database | ⚙️ Automation | 📦 Inventory       | 🏭 Manufacturing    |
 | ----------- | ------------- | ------------------ | ------------------- |
 | 10 Tables   | 7 Triggers    | Auto Replenishment | Production Workflow |
