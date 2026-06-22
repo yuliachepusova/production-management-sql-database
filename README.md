@@ -1,7 +1,7 @@
 # Production Management SQL Database
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2022-CC2927?logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-Advanced-blue)
+![T-SQL](https://img.shields.io/badge/T--SQL-Implemented-blue)
 ![Database Design](https://img.shields.io/badge/Database_Design-3NF-success)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-ERD-green)
 ![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-Yes-orange)
@@ -16,16 +16,16 @@ The system models the complete production workflow—from supplier and material 
 
 ## Project Highlights
 
-* Designed and implemented a normalized relational database (3NF)
-* Developed 10 business entities with primary and foreign key relationships
-* Implemented stored procedures to automate production workflows
-* Applied triggers to enforce business rules and maintain data consistency
-* Created analytical SQL queries for inventory and production monitoring
-* Built using Microsoft SQL Server (T-SQL)
+* Designed and implemented a normalized relational database.
+* Developed 10 relational tables with primary and foreign key relationships.
+* Implemented stored procedures for production workflow automation.
+* Applied database triggers to maintain data consistency and automate business logic.
+* Created analytical SQL queries for inventory and production monitoring.
+* Built using Microsoft SQL Server (T-SQL).
 
-| 📊 Database | ⚙️ Automation | 📦 Inventory       | 🏭 Manufacturing    |
-| ----------- | ------------- | ------------------ | ------------------- |
-| 10 Tables   | 7 Triggers    | Auto Replenishment | Production Workflow |
+| Database      | Automation     | Inventory                   | Manufacturing           |
+| ------------- | -------------- | --------------------------- | ----------------------- |
+| **10 Tables** | **7 Triggers** | **Automatic Replenishment** | **Production Workflow** |
 
 ---
 
